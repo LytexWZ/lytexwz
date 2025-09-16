@@ -1,12 +1,16 @@
 ## C:\Users\Guest 👋
 
-I'm currently studying computer engineering, and working as a cybersecurity analyst.
+<h3 align="center">I'm currently studying computer engineering, and working as a cybersecurity analyst.</h3>
 
-Most of the code I post here is intended to help people by automating tasks and creating tools to improve search and user experience. Feel free to contact me on any of my socials!
+<h4 align="center">Most of the code I post here is intended to help people by automating tasks and creating tools to improve search and user experience. Feel free to contact me on any of my socials!</h3>
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=lytexwz&theme=radical&show_icons=true)](https://slat.cc/lytex)
+<p align="center">
+<a href="https://slat.cc/lytex">
+  <img src=https://github-readme-stats.vercel.app/api?username=lytexwz&theme=radical&show_icons=true>
+</a>
+</p>
 
-Languages & Tools I know / use
+<h3 align="center">Languages & Tools I know / use</h3>
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=fff" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff" />
@@ -21,7 +25,7 @@ Languages & Tools I know / use
   <img alt="Vim" src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=fff" />
   <img alt="VS" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=fff" />
 </p>
-Browsers & OS
+<h3 align="center">Browsers & OS</h3>
 <p align="center">
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=fff" />
   <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=fff" />
@@ -31,10 +35,10 @@ Browsers & OS
   <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
 
 </p>
-Contact
+<h3 align="center">Contact</h3>
 <p align="center">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=fff" />
 </p>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=lytexwz&theme=radical&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=lytexwz&title=-Reviews&theme=radical&column=-1" />
 </p>

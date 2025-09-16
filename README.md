@@ -1,4 +1,5 @@
 ## C:\Users\Guest 👋
+![Counter](https://komarev.com/ghpvc/?username=LytexWZ&style=pixel)
 
 <h3 align="center">I'm currently studying computer engineering, and working as a cybersecurity analyst.</h3>
 

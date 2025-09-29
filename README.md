@@ -1,5 +1,6 @@
 ## C:\Users\Guest 👋
 ![Counter](https://komarev.com/ghpvc/?username=LytexWZ&style=pixel)
+![Render](https://hit.yhype.me/github/profile?account_id=72569213)
 
 <h3 align="center">I'm currently studying computer engineering, and working as a cybersecurity analyst.</h3>
 

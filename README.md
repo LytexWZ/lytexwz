@@ -13,8 +13,8 @@
 </p>
 
 <h3 align="center">Some of my public projects</h3>
-  <p align="center">ANRO Portal (DB management dashboard): https://anro.pages.dev</p>
-  <p align="center">Azure utils (Progress & trading calculators): https://lytexwz.github.io/AzureUtils</p>
+  <h4 align="center">ANRO Portal (DB management dashboard): https://anro.pages.dev</h4>
+  <h4 align="center">Azure utils (Progress & trading calculators): https://lytexwz.github.io/AzureUtils</h4>
 
 <h3 align="center">Languages & Tools I know / use</h3>
 <p align="center">

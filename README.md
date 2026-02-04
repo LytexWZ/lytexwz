@@ -1,10 +1,10 @@
 ## C:\Users\Guest 👋
-![Counter](https://komarev.com/ghpvc/?username=LytexWZ&style=pixel)
+![Counter](https://komarev.com/ghpvc/?username=LytexWZ)
 ![Render](https://hit.yhype.me/github/profile?account_id=72569213)
 
 <h3 align="center">I'm currently studying computer engineering, and working as a cybersecurity analyst.</h3>
 
-<h4 align="center">Most of the code I post here is intended to help people by automating tasks and creating tools to improve search and user experience. Feel free to contact me on any of my socials!</h3>
+<h4 align="center">Most of the code I post here is intended to help people by automating tasks <br> and creating tools to improve search and user experience. <br>Feel free to contact me on any of my socials!</h3>
 
 <p align="center">
   <a href="https://slat.cc/lytex">
@@ -13,8 +13,10 @@
 </p>
 
 <h3 align="center">Some of my public projects</h3>
-  <h4 align="center">ANRO Portal (DB management dashboard): https://anro.pages.dev</h4>
+  <h4 align="center">ANRO Portal (Employee portal with DB): https://anro.pages.dev</h4>
   <h4 align="center">Azure utils (Progress & trading calculators): https://lytexwz.github.io/AzureUtils</h4>
+  <h4 align="center">Mongo DB verification worker (Verification with discord & roVer API)https://janeclanker.lytexwz.workers.dev/
+  
 
 <h3 align="center">Languages & Tools I know / use</h3>
 <p align="center">

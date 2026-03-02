@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://slat.cc/lytex">
-    <img src=https://github-readme-stats.vercel.app/api?username=lytexwz&theme=radical&show_icons=true>
+    <img src=github-readme-stats-ten-steel-64.vercel.app/api?username=lytexwz&theme=radical&show_icons=true>
   </a>
 </p>
 

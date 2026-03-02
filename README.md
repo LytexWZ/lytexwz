@@ -53,5 +53,5 @@
   </a>
 </p>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=lytexwz&title=-Reviews&theme=radical&column=-1" />
+  <img alig src="https://trophy.ryglcloud.net/?username=lytexwz&title=-Reviews&theme=radical&column=-1" />
 </p>
